@@ -4,11 +4,11 @@
 commandes
 Voici les commandes disponibles:
 
-!dailyAdd <daily> :
+!dailyAdd "nom du daily" :
 Ajoute un daily
 
 !dailyList :
 Affiche les daily
 
-!dailyDelete <daily> :
+!dailyDelete "ID du daily" :
 Supprime un daily
