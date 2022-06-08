@@ -1,4 +1,4 @@
-# BotForDiscord
+# DailyBotForDiscord
 
 
 commandes
