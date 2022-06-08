@@ -9,6 +9,8 @@
 
 - !dailyDelete "ID du daily" : Supprime un daily
 
+- !quizz : affiche une question et des réponses de culture générale
+
 # exemple:
 
 - !dailyAdd recap de la semaine
