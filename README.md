@@ -20,3 +20,5 @@
 # Rappel tous les 24 heures:
 
 - "n'oubliez pas de partager votre daily avec la commande !dailyAdd !"
+
+# base de donnée en mySQL
